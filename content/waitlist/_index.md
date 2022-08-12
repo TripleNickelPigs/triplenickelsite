@@ -1,4 +1,5 @@
 ---
+title: ""
 author: "Triple Nickel"
 ---
-This is where we write stuff.
+{{<waitlist>}}
