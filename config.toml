@@ -5,44 +5,17 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tnp"
 enableRobotsTXT = true
-logo = 'img/logo/logo.svg'
+logo = 'img/logo/final-triple-nickel-logo.png'
 logo_width = "200px"
+description = "Premium Pork, For Your Fork"
 
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
 
-# If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "UA-12345678-1"
-
-# Disqus Comment System
-#disqusShortname = ""
-
-[params]
-
-  mainSections = ['blog']
-
-#  [params.logo]
-#    main = "img/logo/logo.svg"
-#    alt = "Triple Nickel"
-
-    # The size parameter is the class name of tailwindcss
-    # https://tailwindcss.com/
-    size = "h-14"
-
-  [params.site]
-    name = "Triple Nickel"
-
-  [params.icon]
-    #If you want to use FontAwesome, set this parameter to true.
-    fontawesome = true
-
-  [params.homepage_meta_tags]
-    meta_description = "Triple Nickel Premium Pork for your Fork!"
-    meta_og_title = "Triple Nickel"
-    meta_og_type = "website"
-    meta_og_url = "https://triplenickelpigs.com"
-    meta_og_image = "img/logo/logo.svg"
-    meta_og_description = "Non-GMO Premium Pork from a small community farm"
 
 [menu]
 
@@ -50,31 +23,31 @@ logo_width = "200px"
     identifier = "pricing"
     name = "Pricing"
     url = "/pricing/"
-    weight = 1
+    weight = 10
   
   [[menu.main]]
     identifier = "waitlist"
     name = "Wait List"
     url = "/waitlist/"
-    weight = 2
+    weight = 20
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 3
+    weight = 30
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 40
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 50
 
   # Footer Menu
   [[menu.footer]]
