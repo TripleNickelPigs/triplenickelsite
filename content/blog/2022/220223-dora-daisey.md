@@ -1,9 +1,10 @@
 ---
 title: "Dora & Daisey *sigh*"
 date: 2022-02-23T12:45:07-07:00
-author: 'Tamra'
-image: "/img/logo/logo.svg"
-tags: ['4h','farm','farrowing','offgrid','piglets','pigs','pork','winter']
+author: "Tamra"
+image: "/image/logo/logo.svg"
+tags:
+  ["4h", "farm", "farrowing", "offgrid", "piglets", "pigs", "pork", "winter"]
 ---
 
 The time that we all were waiting for finally arrived! Dora had 9 babies on the 12th of February. Unfortunately, only one survived. We did not know she was even in labor until we saw a piglet following her the next morning. Jason went to feed like normal and to check her out to see if she was starting labor, looked up and saw a cute little red piglet following her around trying to nurse. She didn’t even seem to notice the little guy. Jason went in to check on the babies and saw that Dora was not the mothering type (if you get my drift). We managed to save the Lucky little guy from his mama. We attempted to put him in with Dottie but she wasn’t having it. We then had to rescue him from a mama that cared. She thought Jason had snatched up one of hers and boy was she not happy about that! Everything worked out in the end and no animals (or humans) were harmed. Now we have a little bottle baby at the farm and our daughter decided that she was going to raise little Lucky for 4H.
