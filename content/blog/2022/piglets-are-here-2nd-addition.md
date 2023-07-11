@@ -1,7 +1,7 @@
 ---
 title: "Piglets Are Here 2nd Addition"
 date: 2022-02-09T13:05:42-07:00
-image: "/img/blog/20220206_082509-2.jpg"
+image: "/images/blog/20220206_082509-2.jpg"
 tags: []
 ---
 

@@ -2,7 +2,7 @@
 title: "Bringing You Beef"
 date: 2022-02-02T13:27:13-07:00
 description: ""
-image: "/img/logo/logo.svg"
+image: "/images/logo/logo.svg"
 tags: []
 ---
 
@@ -16,4 +16,4 @@ RESERVE NOW
 \
 $4.00 per lb. $500 deposit
 \
-**Butcher fees are separate and paid directly to the butcher at time of pick up.
+\*\*Butcher fees are separate and paid directly to the butcher at time of pick up.
