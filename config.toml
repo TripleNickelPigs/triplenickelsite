@@ -8,6 +8,7 @@ enableRobotsTXT = true
 logo = 'img/logo/final-triple-nickel-logo.png'
 logo_width = "200px"
 description = "Premium Pork, For Your Fork"
+copyright = 'Triple Nickel 2023'
 
 # cookies
 [cookies]
