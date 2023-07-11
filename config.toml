@@ -8,7 +8,8 @@ enableRobotsTXT = true
 description = "Premium Pork, For Your Fork"
 copyright = 'Triple Nickel 2023'
 paginate = 6
-
+logo = "images/logo/logo.svg"
+favicon = "images/logo/final-triple-nickel-logo.png"
 
 
 [menu]
@@ -44,9 +45,9 @@ paginate = 6
     weight = 50
 
   # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
+  [[menu.footer_middle]]
+    name = "Privacy Policy"
+    url = "/privacy-policy"
       weight = 1
 
   #[[menu.footer]]

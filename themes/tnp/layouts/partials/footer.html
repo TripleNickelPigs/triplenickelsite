@@ -6,7 +6,11 @@
         <div class="h3 mb-4">{{ site.Params.footer_menu_left }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_left }}
-          <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+          <li>
+            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"
+              >{{ .Name }}</a
+            >
+          </li>
           {{ end }}
         </ul>
         {{ end }}
@@ -16,7 +20,11 @@
         <div class="h3 mb-4">{{ site.Params.footer_menu_middle }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_middle }}
-          <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+          <li>
+            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"
+              >{{ .Name }}</a
+            >
+          </li>
           {{ end }}
         </ul>
         {{ end }}
@@ -26,22 +34,35 @@
         <div class="h3 mb-4">{{ site.Params.footer_menu_right }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_right }}
-          <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+          <li>
+            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"
+              >{{ .Name }}</a
+            >
+          </li>
           {{ end }}
         </ul>
         {{ end }}
       </div>
       <div class="col-md-3 col-sm-6 mb-5">
-        <a class="d-block h3 mb-3" href="{{ site.BaseURL | absLangURL}}">
-          {{ with site.Params.logo}}
-          <img width="{{site.Params.logo_width}}" class="img-fluid" src="{{ . | relURL }}" alt="{{ site.Title }}">
+        <a class="navbar-brand h3" href="{{ site.BaseURL | absLangURL}}">
+          {{site.Title}} {{ with site.Params.logo}}
+          <img
+            width="{{site.Params.logo_width}}"
+            class="img-fluid"
+            src="{{ . | relURL }}"
+            alt="{{ site.Title }}"
+          />
           {{ else }}{{site.Title}}{{end}}
         </a>
         <p class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
         {{ with site.Params.social }}
         <ul class="list-inline social-icons">
           {{ range . }}
-          <li class="list-inline-item"><a href="{{ .link | safeURL }}" title="{{ .title }}"><i class="{{ .icon }}"></i></a></li>
+          <li class="list-inline-item">
+            <a href="{{ .link | safeURL }}" title="{{ .title }}"
+              ><i class="{{ .icon }}"></i
+            ></a>
+          </li>
           {{ end }}
         </ul>
         {{ end }}

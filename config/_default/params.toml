@@ -5,8 +5,6 @@ logo_width = "100px"
 description = "This is meta description"
 author = "Triple Nickel"
 image = "images/logo/final-triple-nickel-logo.png" # this image will be used as fallback if a page has no image of its own
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
@@ -18,7 +16,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [navigation_button]
-enable = true
+enable = false
 label = "Get Started"
 link = "contact"
 
