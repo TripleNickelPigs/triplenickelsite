@@ -6,11 +6,7 @@ enableInlineShortcodes = true
 theme = "tnp"
 enableRobotsTXT = true
 description = "Premium Pork, For Your Fork"
-copyright = 'Triple Nickel 2023'
 paginate = 6
-logo = "images/logo/logo.svg"
-favicon = "images/logo/final-triple-nickel-logo.png"
-
 
 [menu]
 
@@ -45,14 +41,17 @@ favicon = "images/logo/final-triple-nickel-logo.png"
     weight = 50
 
   # Footer Menu
+  # [[menu.footer_left]]
+  #   name = "Privacy Policy"
+  #   url = "/privacy-policy"
+  #     weight = 1
+
   [[menu.footer_middle]]
     name = "Privacy Policy"
     url = "/privacy-policy"
       weight = 1
-
-  #[[menu.footer]]
-  #  name = ""
-  #  url = ""
-  #  pre = ""
-  #    weight = 2
+  # [[menu.footer_right]]
+  #   name = "Privacy Policy"
+  #   url = "/privacy-policy"
+  #     weight = 1
 
