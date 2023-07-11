@@ -6,6 +6,7 @@ enableInlineShortcodes = true
 theme = "tnp"
 enableRobotsTXT = true
 logo = 'img/logo/logo.svg'
+logo_width = "200px"
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -20,9 +21,9 @@ logo = 'img/logo/logo.svg'
 
   mainSections = ['blog']
 
-  [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Triple Nickel"
+#  [params.logo]
+#    main = "img/logo/logo.svg"
+#    alt = "Triple Nickel"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
