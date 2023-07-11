@@ -3,8 +3,9 @@ title = "Triple Nickel"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-theme = "tella"
+theme = "tnp"
 enableRobotsTXT = true
+logo = 'img/logo/logo.svg'
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
 #hasCJKLanguage = true
@@ -85,3 +86,4 @@ enableRobotsTXT = true
   #  url = ""
   #  pre = ""
   #    weight = 2
+
