@@ -5,18 +5,10 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tnp"
 enableRobotsTXT = true
-logo = "images/logo/final-triple-nickel-logo.png" #TODO fix
-logo_width = "200px"
 description = "Premium Pork, For Your Fork"
 copyright = 'Triple Nickel 2023'
 paginate = 6
 
-# cookies
-[cookies]
-enable = false
-expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
 
 
 [menu]
