@@ -6,10 +6,10 @@ description: "Our products and pricing"
 draft: false
 ---
 
-**Whole Pig** Share: $5/pound hanging weight + *butchering
+**Whole Pig** Share: $5/pound hanging weight + \*butchering
+
 \
-\
-**Half Pig** Share: $5.50/pound hanging weight + *butchering
+**Half Pig** Share: $5.50/pound hanging weight + \*butchering
 \
 \
 **Meat** Berkshire Piglets: $300 each
