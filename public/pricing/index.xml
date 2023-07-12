@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pricing on Triple Nickel</title>
+    <title>Products and Pricing on Triple Nickel</title>
     <link>https://triplenickelpigs.com/pricing/</link>
-    <description>Recent content in Pricing on Triple Nickel</description>
+    <description>Recent content in Products and Pricing on Triple Nickel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://triplenickelpigs.com/pricing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example Project</title>
-      <link>https://triplenickelpigs.com/pricing/example/</link>
-      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      
-      <guid>https://triplenickelpigs.com/pricing/example/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
-    </item>
-    
-    <item>
-      <title>Pricing</title>
-      <link>https://triplenickelpigs.com/pricing/old_/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://triplenickelpigs.com/pricing/old_/</guid>
-      <description>How do we do our pricing? We, at Triple Nickel, are committed to honesty and transparency in our pricing. We pride ourselves on no hidden fees or hidden costs to our customers. The product comes from our farm to your table. Price for a whole pig is $1,200.00 + *butchering. Price for half a pig is $650 + *butchering. A word on deposits. To secure your purchases, $600 (half amount) is required for a whole pig, $650 (full amount) is required for a half a pig at weaning (eight weeks from the birth of the piglets).</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://triplenickelpigs.com/pricing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
