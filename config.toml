@@ -8,6 +8,9 @@ enableRobotsTXT = true
 description = "Premium Pork, For Your Fork"
 paginate = 6
 
+[params]
+  mainSection = "blog"
+
 [menu]
 
   [[menu.main]]
