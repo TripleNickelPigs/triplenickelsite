@@ -61,13 +61,13 @@ enableRobotsTXT = true
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 20
+    weight = 21
 
 [[menu.main]]
     identifier = "waitlist"
     name = "Waitlist"
     url = "/waitlist/"
-    weight = 21
+    weight = 20
 
   [[menu.main]]
     identifier = "about"
