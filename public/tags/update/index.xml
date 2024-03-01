@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on Triple Nickel</title>
+    <link>https://triplenickelpigs.com/tags/update/</link>
+    <description>Recent content in update on Triple Nickel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 17:08:53 -0700</lastBuildDate>
+    <atom:link href="https://triplenickelpigs.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Update</title>
+      <link>https://triplenickelpigs.com/blog/2023/site-update/</link>
+      <pubDate>Thu, 13 Jul 2023 17:08:53 -0700</pubDate>
+      <guid>https://triplenickelpigs.com/blog/2023/site-update/</guid>
+      <description>If you have been with us for awhile, you notice that things are a little different. Due to issues outside of our control we have transitioned to a new web hosting model and the site has changed.
+We are in an effort to gets things back in place and improve the site&amp;rsquo;s design. All the functionally from before is still here, so no worries there. If you have suggestions to improve your experience please email us.</description>
+    </item>
+  </channel>
+</rss>
