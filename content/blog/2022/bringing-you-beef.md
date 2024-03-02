@@ -2,7 +2,7 @@
 title: "Bringing You Beef"
 date: 2022-02-02T13:27:13-07:00
 description: ""
-image: "/images/logo/logo.svg"
+image: "img/logo/logo.svg"
 tags: []
 ---
 

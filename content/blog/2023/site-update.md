@@ -2,7 +2,7 @@
 title: "Site Update"
 date: 2023-07-13T17:08:53-07:00
 description: "site update"
-image: "images/logo/logo.svg"
+image: "img/logo/logo.svg"
 draft: false
 tags: ["update"]
 ---

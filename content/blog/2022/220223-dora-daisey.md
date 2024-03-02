@@ -2,7 +2,7 @@
 title: "Dora & Daisey *sigh*"
 date: 2022-02-23T12:45:07-07:00
 author: "Tamra"
-image: "/images/logo/logo.svg"
+image: "img/logo/logo.svg"
 tags:
   ["4h", "farm", "farrowing", "offgrid", "piglets", "pigs", "pork", "winter"]
 ---

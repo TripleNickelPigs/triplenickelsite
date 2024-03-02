@@ -2,7 +2,7 @@
 title: "Piglets Are Here"
 date: 2022-02-05T13:22:39-07:00
 description: ""
-image: "/images/blog/babies-litter-1-1-768x573.jpeg"
+image: "img/babieslitter1.jpeg"
 tags: []
 ---
 

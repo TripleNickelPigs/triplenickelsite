@@ -2,7 +2,7 @@
 title: "Bubbles"
 date: 2021-11-29T13:27:45-07:00
 description: ""
-image: "/images/logo/logo.svg"
+image: "img/logo/logo.svg"
 tags: []
 ---
 

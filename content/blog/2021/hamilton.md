@@ -2,7 +2,7 @@
 title: "Hamilton"
 date: 2021-12-12T13:27:37-07:00
 description: ""
-image: "/images/logo/logo.svg"
+image: "img/logo/logo.svg"
 tags: []
 ---
 
