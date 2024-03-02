@@ -1,18 +1,8 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
-  },
-  {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "icon-lightbulb_outline"
-  },
-  {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "title": "Wait List",
+    "description": "Please signup on our wait list for products",
+    "icon": "fa-regular fa-clipboard",
+    "link": "https://www.triplenickelpigs.com/waitlist"
   }
 ]
